@@ -23,4 +23,4 @@ The text in each review has been pre-processed and passed through a sentiment an
 8. Popularity of paid apps vs free apps
 9. Sentiment Polarity Distribution
 
-This was a guided project created on the DataCamp platform. In a guided project, learners are provided with a set of instructions and a specific goal to achieve using a real-world dataset.
+This is a guided project I have done on the DataCamp platform. Guided projects provide learners with a structured approach to working with real-world datasets, providing step-by-step instructions and a clear goal to achieve.
