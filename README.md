@@ -22,3 +22,5 @@ The text in each review has been pre-processed and passed through a sentiment an
 7. Filter out "junk" apps
 8. Popularity of paid apps vs free apps
 9. Sentiment Polarity Distribution
+
+This was a guided project made on the DataCamp platform. In a guided project, learners are provided with a set of instructions and a specific goal to achieve using a real-world dataset.
